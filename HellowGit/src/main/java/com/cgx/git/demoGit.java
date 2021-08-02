@@ -13,5 +13,6 @@ public class demoGit {
         System.out.println("分支添加2");
         System.out.println("金华改了代码");
         System.out.println("金华改了代码2");
+        System.out.println("金华改了代码3");
     }
 }
